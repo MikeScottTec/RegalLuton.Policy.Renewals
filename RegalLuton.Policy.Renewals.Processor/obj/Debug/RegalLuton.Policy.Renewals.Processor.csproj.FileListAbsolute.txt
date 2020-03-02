@@ -1,0 +1,11 @@
+D:\Dev\RegalLuton.Policy.Renewals\RegalLuton.Policy.Renewals.Processor\obj\Debug\RegalLuton.Policy.Renewals.Processor.csprojAssemblyReference.cache
+D:\Dev\RegalLuton.Policy.Renewals\RegalLuton.Policy.Renewals.Processor\bin\Debug\Resources\template.txt
+D:\Dev\RegalLuton.Policy.Renewals\RegalLuton.Policy.Renewals.Processor\bin\Debug\RegalLuton.Policy.Renewals.Processor.dll
+D:\Dev\RegalLuton.Policy.Renewals\RegalLuton.Policy.Renewals.Processor\bin\Debug\RegalLuton.Policy.Renewals.Processor.pdb
+D:\Dev\RegalLuton.Policy.Renewals\RegalLuton.Policy.Renewals.Processor\bin\Debug\RegalLuton.Policy.Renewals.Entities.dll
+D:\Dev\RegalLuton.Policy.Renewals\RegalLuton.Policy.Renewals.Processor\bin\Debug\RegalLuton.Policy.Renewals.FileService.dll
+D:\Dev\RegalLuton.Policy.Renewals\RegalLuton.Policy.Renewals.Processor\bin\Debug\RegalLuton.Policy.Renewals.Entities.pdb
+D:\Dev\RegalLuton.Policy.Renewals\RegalLuton.Policy.Renewals.Processor\bin\Debug\RegalLuton.Policy.Renewals.FileService.pdb
+D:\Dev\RegalLuton.Policy.Renewals\RegalLuton.Policy.Renewals.Processor\obj\Debug\RegalLuton.Policy.Renewals.Processor.csproj.CopyComplete
+D:\Dev\RegalLuton.Policy.Renewals\RegalLuton.Policy.Renewals.Processor\obj\Debug\RegalLuton.Policy.Renewals.Processor.dll
+D:\Dev\RegalLuton.Policy.Renewals\RegalLuton.Policy.Renewals.Processor\obj\Debug\RegalLuton.Policy.Renewals.Processor.pdb

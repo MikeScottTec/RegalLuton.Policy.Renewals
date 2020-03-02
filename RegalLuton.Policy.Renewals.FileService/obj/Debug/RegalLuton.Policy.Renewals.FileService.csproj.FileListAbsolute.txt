@@ -1,0 +1,8 @@
+D:\Dev\RegalLuton.Policy.Renewals\RegalLuton.Policy.Renewals.FileService\bin\Debug\Resources\template.txt
+D:\Dev\RegalLuton.Policy.Renewals\RegalLuton.Policy.Renewals.FileService\bin\Debug\RegalLuton.Policy.Renewals.FileService.dll
+D:\Dev\RegalLuton.Policy.Renewals\RegalLuton.Policy.Renewals.FileService\bin\Debug\RegalLuton.Policy.Renewals.FileService.pdb
+D:\Dev\RegalLuton.Policy.Renewals\RegalLuton.Policy.Renewals.FileService\obj\Debug\RegalLuton.Policy.Renewals.FileService.Properties.Resources.resources
+D:\Dev\RegalLuton.Policy.Renewals\RegalLuton.Policy.Renewals.FileService\obj\Debug\RegalLuton.Policy.Renewals.FileService.csproj.GenerateResource.cache
+D:\Dev\RegalLuton.Policy.Renewals\RegalLuton.Policy.Renewals.FileService\obj\Debug\RegalLuton.Policy.Renewals.FileService.dll
+D:\Dev\RegalLuton.Policy.Renewals\RegalLuton.Policy.Renewals.FileService\obj\Debug\RegalLuton.Policy.Renewals.FileService.pdb
+D:\Dev\RegalLuton.Policy.Renewals\RegalLuton.Policy.Renewals.FileService\obj\Debug\RegalLuton.Policy.Renewals.FileService.csprojAssemblyReference.cache
